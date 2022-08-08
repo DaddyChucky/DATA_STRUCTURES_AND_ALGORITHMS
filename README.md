@@ -6,7 +6,7 @@
 ## [FR] Description:
 - Différents TPs écrits en Java touchant le sujet des structures de données et algorithmes, tels que les arbres binaires de recherche, monceaux, etc.
 
-## Author / Auteur:
+## Authors / Auteurs:
 - Charles De Lafontaine
 - Geneviève Pelletier-Mc Duff
 
